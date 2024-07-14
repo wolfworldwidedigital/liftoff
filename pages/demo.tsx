@@ -843,11 +843,11 @@ export default function DemoPage() {
                   className="max-w-lg mx-auto px-4 lg:px-0"
                 >
                   <h2 className="text-4xl font-bold text-[#1E2B3A]">
-                    Select a question type
+                    Selecteer hoe je jouw nieuwe Large Language Model wenst fijn te tunen.
                   </h2>
                   <p className="text-[14px] leading-[20px] text-[#1a2b3b] font-normal my-4">
-                    We have hundreds of questions from top tech companies.
-                    Choose a type to get started.
+                    Het spreekt voor zich dat we langs onze kant al het zware heffen al hebben gedaan voor je,
+                    maar als je het fijn vindt, nodigen we je graag uit om het leuke werk door jou te laten uitvoeren.
                   </p>
                   <div>
                     <RadioGroup value={selected} onChange={setSelected}>

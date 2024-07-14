@@ -58,9 +58,9 @@ export default function Home() {
             }}
             className="relative md:ml-[-10px] md:mb-[37px] font-extrabold text-[16vw] md:text-[130px] font-inter text-[#1E2B3A] leading-[0.9] tracking-[-2px] z-[100]"
           >
-            Elevate your <br />
-            tech <span className="text-[#407BBF]">interviews</span>
-            <span className="font-inter text-[#407BBF]">.</span>
+            Boost CX<br />
+           met <span className="text-[#407BBF]">Cusmato</span>
+            <span className="font-inter text-[#407BBF]"></span>
           </motion.h1>
           <motion.div
             initial={{ opacity: 0, y: 40 }}
@@ -72,24 +72,7 @@ export default function Home() {
             }}
             className="flex flex-row justify-center z-20 mx-0 mb-0 mt-8 md:mt-0 md:mb-[35px] max-w-2xl md:space-x-8"
           >
-            <div className="w-1/2">
-              <h2 className="flex items-center font-semibold text-[1em] text-[#1a2b3b]">
-                Platform
-              </h2>
-              <p className="text-[14px] leading-[20px] text-[#1a2b3b] font-normal">
-                Full access to our platform, including all questions and
-                solutions.
-              </p>
-            </div>
-            <div className="w-1/2">
-              <h2 className="flex items-center font-semibold text-[1em] text-[#1a2b3b]">
-                Community
-              </h2>
-              <p className="text-[14px] leading-[20px] text-[#1a2b3b] font-normal">
-                Join a community of like-minded individuals, and learn from each
-                other.
-              </p>
-            </div>
+
           </motion.div>
 
           <div className="flex gap-[15px] mt-8 md:mt-0">
@@ -133,7 +116,7 @@ export default function Home() {
                     ></path>
                   </svg>
                 </span>
-                Star on Github
+               Cusmato
               </Link>
             </motion.div>
             <motion.div
@@ -152,7 +135,7 @@ export default function Home() {
                   boxShadow: "0 1px 1px #0c192714, 0 1px 3px #0c192724",
                 }}
               >
-                <span className="mr-2"> Try it out </span>
+                <span className="mr-2"> Start onboarding! </span>
                 <svg
                   className="w-5 h-5"
                   viewBox="0 0 24 24"
@@ -208,8 +191,7 @@ export default function Home() {
         ></motion.canvas>
         <div className="h-[60px] bg-[#1D2B3A] fixed bottom-0 z-20 w-full flex flex-row items-center justify-evenly">
           <p className="text-white/80 text-base md:text-lg font-semibold md:leading-[60px] whitespace-nowrap flex flex-row">
-            Interviews from
-          </p>
+          Integreerd naadloos met          </p>
           <svg
             className="w-[20px] opacity-80"
             viewBox="0 0 706 720"
